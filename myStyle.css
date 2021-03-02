@@ -1,0 +1,21 @@
+.div1{
+    color:purple;
+    background-color: pink;
+    width: 300px;
+    height: 100px;
+}
+.div2{
+    color: blue;
+    background-color: yellow;
+    width:400px;
+}
+.div3{
+    color: white;
+    background-color: turquoise;
+}
+.div4{
+    color:rgb(244, 245, 245);
+    background-color: rgb(53, 2, 63);
+    height: 150px;
+    width: 500px
+}
